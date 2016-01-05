@@ -14,4 +14,6 @@ Incantation > writes the file to current directory.
 
 Build the npm module -g to build on the fly in any npm init __DIR
 
+## RUN
 
+node setup.js
