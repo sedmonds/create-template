@@ -14,4 +14,4 @@ Build the npm module -g to to launch structure in any npm init __DIR
 
 ## RUN
 
-node setup.js
+node setup.js >> `beep.html`
